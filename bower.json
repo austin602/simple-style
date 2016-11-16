@@ -16,6 +16,9 @@
   ],
   "dependencies": {
     "angular": "^1.5.8",
-    "angular-ui-router": "^0.3.2"
+    "angular-ui-router": "^0.3.2",
+    "less": "^2.7.1",
+    "normalize-strings": "normalize#^1.1.0",
+    "normalize-css": "^5.0.0"
   }
 }
